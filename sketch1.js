@@ -28,7 +28,7 @@ function preload() {
 	// load the data
   sculpture = loadJSON('data.json');
 
-    img.push(loadImage('pics/Bronze.png')); 
+    img.push(loadImage('https://raw.githubusercontent.com/Dalbed349/MajorStudio1/master/pics/Bronze.png')); //https://raw.githubusercontent.com/Dalbed349/MajorStudio1/master/pics/19.PNG
     img.push(loadImage('pics/Bronze_With_Gilding.png'));
     img.push(loadImage('pics/Stone.png'));
     img.push(loadImage('pics/Gilt_Bronze2.png'));
