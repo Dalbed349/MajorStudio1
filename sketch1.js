@@ -53,7 +53,7 @@ function preload() {
     img.push(loadImage('pics/Limestone_Pigment_Gild22.PNG'));
     img.push(loadImage('pics/Glass_Blown2_Enameled23.PNG'));
     img.push(loadImage('pics/Gilded_bronze24.PNG'));
-    img.push(loadImage('pics/Watercolor25.PNG'));
+    img.push(loadImage('pics/Watercolor25.png'));
     img.push(loadImage('pics/Watercolor26.PNG'));
     img.push(loadImage('pics/Bronze_inlaid_GOld_Silver 27.PNG'));
     img.push(loadImage('pics/BronzeGSTurqCarnin28.PNG'));
