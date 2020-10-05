@@ -28,105 +28,105 @@ function preload() {
 	// load the data
   sculpture = loadJSON('data.json');
 
-    img.push(loadImage('pics/Bronze.png')); //https://raw.githubusercontent.com/Dalbed349/MajorStudio1/master/pics/19.PNG
-    img.push(loadImage('pics/Bronze_With_Gilding.png'));
-    img.push(loadImage('pics/Stone.png'));
-    img.push(loadImage('pics/Gilt_Bronze2.png'));
-    img.push(loadImage('pics/Glass2.png'));
-    img.push(loadImage('pics/Bronze_Silver_inlay.png'));
-    img.push(loadImage('pics/Bronze_Comma_Gilding.png'));
-    img.push(loadImage('pics/Lead.png'));
-    img.push(loadImage('pics/Limestone_With_Traces_Pigment8.png'));
-    img.push(loadImage('pics/Bronze_Gilding_Turquoise_inlay9.png'));
-    img.push(loadImage('pics/Limestone10.png')); // last labeled %
-    img.push(loadImage('pics/Bronze_With_Gold_Silver_Inlay11.png'));
-    img.push(loadImage('pics/Grey_Marble_Trace_Pigment12.png'));
-    img.push(loadImage('pics/Jade_Nephrite13.png'));
-    img.push(loadImage('pics/Marble14.png'));
-    img.push(loadImage('pics/Glass15.png'));
-    img.push(loadImage('pics/Bronze_GOLD_turq_inlay.png'));
-    img.push(loadImage('pics/Bronze_Gild_Gold_Inlay17.png'));
-    img.push(loadImage('pics/Iron18.png'));
-    img.push(loadImage('pics/19.png'));//Bronze_Gold_Silver_Inlay_duplicate!
-    img.push(loadImage('pics/Stone_Pigment20.png'));
-    img.push(loadImage('pics/Stone_Pigment21.png'));
-    img.push(loadImage('pics/Limestone_Pigment_Gild22.png'));
-    img.push(loadImage('pics/Glass_Blown2_Enameled23.png'));
-    img.push(loadImage('pics/Gilded_bronze24.png'));
-    img.push(loadImage('pics/Watercolor25.png'));
-    img.push(loadImage('pics/Watercolor26.png'));
-    img.push(loadImage('pics/Bronze_inlaid_GOld_Silver 27.png'));
-    img.push(loadImage('pics/BronzeGSTurqCarnin28.png'));
-    img.push(loadImage('pics/BronzePaste29.png'));
-    img.push(loadImage('pics/GiltBronzeJade30.png'));
-    img.push(loadImage('pics/bronzelower31.png'));
-    img.push(loadImage('pics/hammersilver32.png'));
-    img.push(loadImage('pics/BronzeGoldSilverInlaid33.png'));
-    img.push(loadImage('pics/Gilt_Bronzemulti34.png'));
-    img.push(loadImage('pics/turq35.png'));
-    img.push(loadImage('pics/bronzeg36.png'));
-    img.push(loadImage('pics/shell37.png'));
-    img.push(loadImage('pics/semi38.png'));
-    img.push(loadImage('pics/mirror39.png'));
-    img.push(loadImage('pics/mirror40.png'));
-    img.push(loadImage('pics/combo41.png'));
-    img.push(loadImage('pics/combo42.png'));
-    img.push(loadImage('pics/bronzeturq43.png'));
-    img.push(loadImage('pics/Iron44.png'));
-    img.push(loadImage('pics/BronzeGold45.png'));
-    img.push(loadImage('pics/BronzePig46.png'));
-    img.push(loadImage('pics/47.png'));
-    img.push(loadImage('pics/wood48.png'));
-    img.push(loadImage('pics/49.png'));//bronze g 
-    img.push(loadImage('pics/50.png'));// irong g 
-    img.push(loadImage('pics/51.png'));
-    img.push(loadImage('pics/52.png'));
-    img.push(loadImage('pics/53bronzeturq.png'));
-    img.push(loadImage('pics/54mirror.png'));
-    img.push(loadImage('pics/55mirror.png'));
-    img.push(loadImage('pics/56mirror.png'));
-    img.push(loadImage('pics/57mirror.png'));
-    img.push(loadImage('pics/58mirror.png'));
-    img.push(loadImage('pics/59mirror.png'));
-    img.push(loadImage('pics/60mirror.png'));
-    img.push(loadImage('pics/61mirror.png'));
-    img.push(loadImage('pics/62bronzegildsilver.png'));
-    img.push(loadImage('pics/63multi.png'));
-    img.push(loadImage('pics/64.png'));
-    img.push(loadImage('pics/65silverwine.png'));
-    img.push(loadImage('pics/66sword.png'));
-    img.push(loadImage('pics/67bronzecast.png'));
-    img.push(loadImage('pics/68silver.png'));
-    img.push(loadImage('pics/69combo.png'));
-    img.push(loadImage('pics/70turq.png'));
-    img.push(loadImage('pics/71silverbronze.png'));
-    img.push(loadImage('pics/72silverbronze.png'));
-    img.push(loadImage('pics/73bronzeinlay.png'));
-    img.push(loadImage('pics/74marble.png'));
-    img.push(loadImage('pics/75marble.png'));
-    img.push(loadImage('pics/76.png'));
-    img.push(loadImage('pics/77.png'));
-    img.push(loadImage('pics/78.png'));
-    img.push(loadImage('pics/79.png'));
-    img.push(loadImage('pics/80.png'));
-    img.push(loadImage('pics/81.png'));
-    img.push(loadImage('pics/82.png'));
-    img.push(loadImage('pics/83.png'));
-    img.push(loadImage('pics/84.png'));
-    img.push(loadImage('pics/85.png'));
-    img.push(loadImage('pics/86.png'));
-    img.push(loadImage('pics/87.png'));
-    img.push(loadImage('pics/88.png'));
-    img.push(loadImage('pics/89.png'));
-    img.push(loadImage('pics/90.png'));
-    img.push(loadImage('pics/91.png'));
-    img.push(loadImage('pics/92.png'));
-    img.push(loadImage('pics/93.png'));
-    img.push(loadImage('pics/94.png'));
-    img.push(loadImage('pics/95.png'));
-    img.push(loadImage('pics/96.png'));
-    img.push(loadImage('pics/97.png'));
-    img.push(loadImage('pics/98.png'));
+    img.push(loadImage('pics/Bronze.PNG')); //https://raw.githubusercontent.com/Dalbed349/MajorStudio1/master/pics/19.PNG
+    img.push(loadImage('pics/Bronze_With_Gilding.PNG'));
+    img.push(loadImage('pics/Stone.PNG'));
+    img.push(loadImage('pics/Gilt_Bronze2.PNG'));
+    img.push(loadImage('pics/Glass2.PNG'));
+    img.push(loadImage('pics/Bronze_Silver_inlay.PNG'));
+    img.push(loadImage('pics/Bronze_Comma_Gilding.PNG'));
+    img.push(loadImage('pics/Lead.PNG'));
+    img.push(loadImage('pics/Limestone_With_Traces_Pigment8.PNG'));
+    img.push(loadImage('pics/Bronze_Gilding_Turquoise_inlay9.PNG'));
+    img.push(loadImage('pics/Limestone10.PNG')); // last labeled %
+    img.push(loadImage('pics/Bronze_With_Gold_Silver_Inlay11.PNG'));
+    img.push(loadImage('pics/Grey_Marble_Trace_Pigment12.PNG'));
+    img.push(loadImage('pics/Jade_Nephrite13.PNG'));
+    img.push(loadImage('pics/Marble14.PNG'));
+    img.push(loadImage('pics/Glass15.PNG'));
+    img.push(loadImage('pics/Bronze_GOLD_turq_inlay.PNG'));
+    img.push(loadImage('pics/Bronze_Gild_Gold_Inlay17.PNG'));
+    img.push(loadImage('pics/Iron18.PNG'));
+    img.push(loadImage('pics/19.PNG'));//Bronze_Gold_Silver_Inlay_duplicate!
+    img.push(loadImage('pics/Stone_Pigment20.PNG'));
+    img.push(loadImage('pics/Stone_Pigment21.PNG'));
+    img.push(loadImage('pics/Limestone_Pigment_Gild22.PNG'));
+    img.push(loadImage('pics/Glass_Blown2_Enameled23.PNG'));
+    img.push(loadImage('pics/Gilded_bronze24.PNG'));
+    img.push(loadImage('pics/Watercolor25.PNG'));
+    img.push(loadImage('pics/Watercolor26.PNG'));
+    img.push(loadImage('pics/Bronze_inlaid_GOld_Silver 27.PNG'));
+    img.push(loadImage('pics/BronzeGSTurqCarnin28.PNG'));
+    img.push(loadImage('pics/BronzePaste29.PNG'));
+    img.push(loadImage('pics/GiltBronzeJade30.PNG'));
+    img.push(loadImage('pics/bronzelower31.PNG'));
+    img.push(loadImage('pics/hammersilver32.PNG'));
+    img.push(loadImage('pics/BronzeGoldSilverInlaid33.PNG'));
+    img.push(loadImage('pics/Gilt_Bronzemulti34.PNG'));
+    img.push(loadImage('pics/turq35.PNG'));
+    img.push(loadImage('pics/bronzeg36.PNG'));
+    img.push(loadImage('pics/shell37.PNG'));
+    img.push(loadImage('pics/semi38.PNG'));
+    img.push(loadImage('pics/mirror39.PNG'));
+    img.push(loadImage('pics/mirror40.PNG'));
+    img.push(loadImage('pics/combo41.PNG'));
+    img.push(loadImage('pics/combo42.PNG'));
+    img.push(loadImage('pics/bronzeturq43.PNG'));
+    img.push(loadImage('pics/Iron44.PNG'));
+    img.push(loadImage('pics/BronzeGold45.PNG'));
+    img.push(loadImage('pics/BronzePig46.PNG'));
+    img.push(loadImage('pics/47.PNG'));
+    img.push(loadImage('pics/wood48.PNG'));
+    img.push(loadImage('pics/49.PNG'));//bronze g 
+    img.push(loadImage('pics/50.PNG'));// irong g 
+    img.push(loadImage('pics/51.PNG'));
+    img.push(loadImage('pics/52.PNG'));
+    img.push(loadImage('pics/53bronzeturq.PNG'));
+    img.push(loadImage('pics/54mirror.PNG'));
+    img.push(loadImage('pics/55mirror.PNG'));
+    img.push(loadImage('pics/56mirror.PNG'));
+    img.push(loadImage('pics/57mirror.PNG'));
+    img.push(loadImage('pics/58mirror.PNG'));
+    img.push(loadImage('pics/59mirror.PNG'));
+    img.push(loadImage('pics/60mirror.PNG'));
+    img.push(loadImage('pics/61mirror.PNG'));
+    img.push(loadImage('pics/62bronzegildsilver.PNG'));
+    img.push(loadImage('pics/63multi.PNG'));
+    img.push(loadImage('pics/64.PNG'));
+    img.push(loadImage('pics/65silverwine.PNG'));
+    img.push(loadImage('pics/66sword.PNG'));
+    img.push(loadImage('pics/67bronzecast.PNG'));
+    img.push(loadImage('pics/68silver.PNG'));
+    img.push(loadImage('pics/69combo.PNG'));
+    img.push(loadImage('pics/70turq.PNG'));
+    img.push(loadImage('pics/71silverbronze.PNG'));
+    img.push(loadImage('pics/72silverbronze.PNG'));
+    img.push(loadImage('pics/73bronzeinlay.PNG'));
+    img.push(loadImage('pics/74marble.PNG'));
+    img.push(loadImage('pics/75marble.PNG'));
+    img.push(loadImage('pics/76.PNG'));
+    img.push(loadImage('pics/77.PNG'));
+    img.push(loadImage('pics/78.PNG'));
+    img.push(loadImage('pics/79.PNG'));
+    img.push(loadImage('pics/80.PNG'));
+    img.push(loadImage('pics/81.PNG'));
+    img.push(loadImage('pics/82.PNG'));
+    img.push(loadImage('pics/83.PNG'));
+    img.push(loadImage('pics/84.PNG'));
+    img.push(loadImage('pics/85.PNG'));
+    img.push(loadImage('pics/86.PNG'));
+    img.push(loadImage('pics/87.PNG'));
+    img.push(loadImage('pics/88.PNG'));
+    img.push(loadImage('pics/89.PNG'));
+    img.push(loadImage('pics/90.PNG'));
+    img.push(loadImage('pics/91.PNG'));
+    img.push(loadImage('pics/92.PNG'));
+    img.push(loadImage('pics/93.PNG'));
+    img.push(loadImage('pics/94.PNG'));
+    img.push(loadImage('pics/95.PNG'));
+    img.push(loadImage('pics/96.PNG'));
+    img.push(loadImage('pics/97.PNG'));
+    img.push(loadImage('pics/98.PNG'));
 
 
 
@@ -144,16 +144,16 @@ function preload() {
 
 
 
-    img.push(loadImage('pics/Capture4.png'));
+    img.push(loadImage('pics/Capture4.PNG'));
 
-    filler = loadImage('pics/dog.png');
+    filler = loadImage('pics/dog.PNG');
     
     
     
     
     
     // img[0]= 
-    // img[1] = loadImage('pics/brass.png'); 
+    // img[1] = loadImage('pics/brass.PNG'); 
     // img[2] = 
     // img[3] =
     // filler = loadImage('pics/nefdown.jpg');
