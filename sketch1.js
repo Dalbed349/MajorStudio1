@@ -56,7 +56,7 @@ function preload() {
     img.push(loadImage('pics/Watercolor25.png'));
     img.push(loadImage('pics/Watercolor26.PNG'));
     img.push(loadImage('pics/Bronze_inlaid_GOld_Silver 27.PNG'));
-    img.push(loadImage('pics/BronzeGSTurqCarnin28.PNG'));
+    img.push(loadImage('pics/BronzeGSTurqCarnin28.png'));
     img.push(loadImage('pics/BronzePaste29.PNG'));
     img.push(loadImage('pics/GiltBronzeJade30.PNG'));
     img.push(loadImage('pics/bronzelower31.PNG'));
